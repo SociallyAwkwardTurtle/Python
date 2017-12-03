@@ -1,0 +1,6 @@
+print("Hello world!")
+print("What is your name?")
+myName=input()
+print("Hello, " + myName)
+input("How are you?: ")
+print("Glad to hear that, " + myName)
